@@ -36,12 +36,12 @@ Here are some of my notable projects:
 
 I actively contribute to both cybersecurity and scientific communities:
 
-- **Cybersecurity:**
+- Cybersecurity:
   - 
   - 
   - 
 
-- **Physics:**
+- Physics:
   - 
   - 
 
