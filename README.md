@@ -2,7 +2,7 @@
 
 🛡️ Ethical Hacker | 🕵️‍♂️ Penetration Tester | 🔐 Cybersecurity Enthusiast | 📚 Physics Major
 
-I'm passionate about securing systems and helping organizations protect their data. With expertise in various penetration testing methodologies, I enjoy finding vulnerabilities before malicious actors do.
+I am a multifaceted professional with a unique blend of expertise in cybersecurity and physics. My passion for technology and science drives me to explore and secure digital landscapes while unraveling the mysteries of the physical world. With a robust background in penetration testing, ethical hacking, and security assessments, I aim to discover and mitigate vulnerabilities before they can be exploited by malicious actors.
 
 ## 🔧 Key Skills & Tools
 
