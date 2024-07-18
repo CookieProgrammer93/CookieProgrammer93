@@ -34,7 +34,7 @@ My mission is to create a safer digital world by identifying weaknesses in syste
 
 ## What I Do
 
-I specialize in a range of cybersecurity services, including:
+I specialize in a range of cybersecurity services and physics areas, including:
 
 ### Cybersecurity:
 - **Penetration Testing:** Conducting thorough assessments of networks, web applications, and systems to identify vulnerabilities.
