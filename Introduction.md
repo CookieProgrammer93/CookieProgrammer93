@@ -19,12 +19,13 @@ My mission is to create a safer digital world by identifying weaknesses in syste
 
 ### Key Skills & Tools
 
+### **Cybersecurity:**
 - **Languages:** Python, C, C++, HTML CSS, PHP, MySQL, JavaScript
 - **Web Security:** SQL Injection, XSS, CSRF, 2FA Bypass
 - **Network Security:** Kali Linux Tools - Wireshark, Nmap, Metasploit, Nessus, BurpSuite
 - **Certifications:** CCNA, CPT, CEHv12, CompTIA Security+
 
-- **Physics:**
+### **Physics:**
 - **Theoretical Physics:** Quantum Mechanics, Electromagnetism
 - **Experimental Physics:** Laboratory Techniques, Data Analysis
 - **Mathematical Tools:** Calculus, Linear Algebra, Differential Equations
